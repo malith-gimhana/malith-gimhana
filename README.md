@@ -39,6 +39,8 @@
 
 <br />
 <br />
+</a>
+<a href="https://github.com/malith-gimhana?tab=followers"><img src="https://img.shields.io/github/followers/malith-gimhana?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ---
 
