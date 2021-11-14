@@ -18,7 +18,7 @@
 
 ### Connect with me:
 
-<a href = "malithgimhana.tk"><img src="https://img.icons8.com/fluent/48/000000/globe.png"/></a>
+<a href = "malithgimhana.tk"><img src="https://img.icons8.com/fluent/48/000000/globe.png" width="26px"/></a>
 <a href = "https://github.com/malith-gimhana"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>
 <a href = "https://twitter.com/MalithGimhana2"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/gimhana_malith/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
