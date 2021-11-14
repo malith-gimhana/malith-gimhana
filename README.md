@@ -34,6 +34,12 @@
 <img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /
 
+     
+     
+     
+     <a href="https://twitter.com/malithgimhana2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="malithgimhana2" height="30" width="40" /></a>
+<a href="https://fb.com/malith-gimhana-102186928849095" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="malith-gimhana-102186928849095" height="30" width="40" /></a>
+<a href="https://instagram.com/gimhana_malith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gimhana_malith" height="30" width="40" /></a>
 
 
 <br />
