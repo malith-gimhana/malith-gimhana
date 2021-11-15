@@ -50,8 +50,8 @@
 | ------------- | ------------- |
 ---
 
----
-<p align="center"> © 2021 Creative Tim, all rights reserved. Made with ❤️ for a better web. </p>
+
+<p align="center"> © 2021 Malith Gimhana, all rights reserved.</p>
 <p align="center">
 https://malithgimhana.tk/
 </p>
