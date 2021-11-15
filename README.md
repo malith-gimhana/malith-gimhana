@@ -3,6 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Malith Gimhana</h1>
 
 <a href="https://github.com/malith-gimhana?tab=followers"><img src="https://img.shields.io/github/followers/malith-gimhana?label=Followers&style=social" alt="GitHub Badge">
+     <img src="https://profile-counter.glitch.me/malith-gimhana/count.svg" />
 </a>
 
 ### [Malith Gimhana][website] 👋 
