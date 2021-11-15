@@ -61,7 +61,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=malith-gimhana&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
-
+| <a href="https://github.com/malith-gimhana/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=malith-gimhana&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malith-gimhana&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 ---
 
 
