@@ -24,7 +24,6 @@
 <a href = "https://www.instagram.com/gimhana_malith/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="26px"/></a>
 <a href = "https://www.facebook.com/Malith-Gimhana-102186928849095"><img src="https://img.icons8.com/color/48/000000/facebook.png" width="26px"/></a>
 
-<br/>
 
 ### Languages and Tools:
 
