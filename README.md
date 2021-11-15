@@ -46,7 +46,7 @@
 ### GitHub Stats:
 
 
-| <a href="https://github.com/malith-gimhana/github-readme-stats"><img align="center" src="https://github.com/malith-gimhana?tab=stars/api?username=malith-gimhana&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Malith Gimhana's github stats" /></a> | <a href="https://github.com/malith-gimhana?tab=stars"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malith-gimhana&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/malith-gimhana?tab=stars"><img align="center" src="https://github-readme-stats.vercel.app/api?username=malith-gimhana&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Malith Gimhana's github stats" /></a> | <a href="https://github.com/malith-gimhana?tab=stars"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malith-gimhana&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 ---
 
