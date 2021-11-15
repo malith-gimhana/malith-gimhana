@@ -43,7 +43,7 @@
 
 <br />
 <br />
-## &#x1f4c8; GitHub Stats
+### GitHub Stats:
 
 
 | <a href="https://github.com/malith-gimhana/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=malith-gimhana&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malith-gimhana&layout=compact&theme=buefy&hide_border=true" /></a> |
