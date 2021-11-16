@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Malith Gimhana</h1>
 
-![GitHub Malith Gimhana](https://img.shields.io/github/followers/malith-gimhana?label=follow&style=social)
 
 ### [Malith Gimhana][website] 👋 
 
@@ -44,6 +43,8 @@
 
 ### GitHub Stats:
 
+
+![GitHub Malith Gimhana](https://img.shields.io/github/followers/malith-gimhana?label=follow&style=social)
 
 | <a href="https://github.com/malith-gimhana?tab=stars"><img align="center" src="https://github-readme-stats.vercel.app/api?username=malith-gimhana&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Malith Gimhana's github stats" /></a> | <a href="https://github.com/malith-gimhana?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malith-gimhana&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
