@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Malith Gimhana</h1>
 
-![GitHub Malith Gimhana](https://img.shields.io/github/followers/malith-gimhana?label=follow&style=social)]
+![GitHub Malith Gimhana](https://img.shields.io/github/followers/malith-gimhana?label=follow&style=social)
 
 ### [Malith Gimhana][website] 👋 
 
