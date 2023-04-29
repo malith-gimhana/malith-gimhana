@@ -11,8 +11,6 @@
 
 - 🔭 My name is Malith Gimhana.
 - 🌱 I live in Handapangoda, Sri Lanka.
-- 👯 My school is Handapangoda Maha Vidyalaya.
-- 🥅 My hobbies are Learning Programming, Video Editing, Graphic Designing
 
 ### Connect with me:
 
